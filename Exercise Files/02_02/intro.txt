@@ -1,0 +1,13 @@
+Navigating the Javascript Landscape
+
+ECMAScript is growing standard
+jQuery is a library of JavaScript functions
+Introduces CSS-like syntax
+
+JS Frameworks - AngularJS, React, Vue.js, are front-end application
+frameworks used to simplify the building of advances interactive
+web-based applications.
+These are not covered in this course!
+
+Node.js - A JS platform built on browser runtime environments
+Used to run advance operations and applications on server side

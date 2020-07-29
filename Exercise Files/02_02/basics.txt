@@ -1,0 +1,20 @@
+Tools for JS Development
+- code editor
+- browser tools
+- debugger
+
+Console
+- can write JS code
+alert("I love ducks")
+alert(5 + 8)
+var date = new Date() <- request for browser's date and time
+alert("Today is " + date)
+
+console.log("Today is " + date)
+
+Grab body tag and inject html
+document.body.innerHTML = "<h1> The date today is " + date + "</h1>"
+document.body.innerHTML = "<h1>The date today is " + (1 + date.getMonth()) + "/"
++ date.getDate() + "/" + date.getFullYear() + "</h1>"
+
+Note computer indexed month starting at 0, had to add 1
