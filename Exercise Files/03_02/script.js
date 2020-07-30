@@ -6,3 +6,9 @@ var justAnotherVariable;
 
 // Try this in your console:
 // console.log(typeof insertVariableName);
+
+
+var theSunIsWarm = true;
+var theSunIsCold = false;
+
+var a, b, c;
