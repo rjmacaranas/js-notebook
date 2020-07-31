@@ -1,3 +1,6 @@
+/* typically place functions at the top */
+
+
 // Regular function, called explicitly by name:
 function multiply() {
     var result = 3 * 4;
